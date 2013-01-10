@@ -1,3 +1,4 @@
+=begin
 class ExceptionNotifier
   class CampfireNotifier
     require 'tinder'
@@ -28,3 +29,4 @@ class ExceptionNotifier
     end
   end
 end
+=end
